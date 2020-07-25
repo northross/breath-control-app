@@ -1,0 +1,23 @@
+{
+  "name": "breath-control-app",
+  "version": "1.0.0",
+  "description": "### This project was created for the practice of setTimeOut() and setInterval() functions and @keyframes to modify css stylings.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d breath-control-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northross/breath-control-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northross/breath-control-app/issues"
+  },
+  "homepage": "https://northross.github.io/breath-control-app",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
